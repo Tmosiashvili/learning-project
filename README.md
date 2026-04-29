@@ -7,18 +7,18 @@ Portfolio setup project using GitHub, Cursor, Claude and Codex
 - Codex
 - Git
 ## Steps completed
-- watched tutorial videos to understand tools
-- installed Cursor 
-- created GitHub account and repository
-- enabled automatic README creation
-- logged into Cursor
-- installed and logged into Claude and Codex
-- installed Git and conncected with Cursor 
-- created a local project folder ("learning project")
-- cloned the Githup repository into Cursor using HTTPS link
-- edited README file in Cursor
-- commit and pushed changes to GitHub
+- Watched tutorial videos to understand tools
+- Installed Cursor 
+- Created GitHub account and repository
+- Enabled automatic README creation
+- Logged into Cursor
+- Installed and logged into Claude and Codex
+- Installed Git and conncected with Cursor 
+- Created a local project folder ("learning project") and stored the README file there 
+- Cloned the Githup repository into Cursor using HTTPS link
+- Edited README file in Cursor
+- Commit and pushed changes to GitHub
 ## Issues i faced and how i solved them
-- Git instalation was confusing  - solved watching YouTube tutorials 
-- understandig clone vs push - learned the difference through practice and explanation videos
-- set up between GitHub and Cursor required multiple attempts - fixed by following step-by-step guides
+- Git setup required additional understading - solved by watching tutorials and following step-by-steo guides
+- Clarifying difference between clone and push - learned through practice and examples
+- Setting up the workflow between GitHub and Cursor required a few attempts - resolved by carefully following instructions
