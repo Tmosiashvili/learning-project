@@ -22,3 +22,18 @@ Portfolio setup project using GitHub, Cursor, Claude and Codex
 - Git setup required additional understading - solved by watching tutorials and following step-by-steo guides
 - Clarifying difference between clone and push - learned through practice and examples
 - Setting up the workflow between GitHub and Cursor required a few attempts - resolved by carefully following instructions
+# Research Project 
+LinkedIn Organic Content Strategy for B2B SaaS
+## Goal 
+Analyze how top B2B SaaS experts use LinkedIn for growth.
+## What this project contains
+- 10 industry experts
+- LinkedIn post analysis
+- YouTube content insights
+## Structure
+- research/sources.md
+- research/linkedin-posts/
+- research/youtube-transcripts/
+- research/other/
+## Purpose
+To identify real content patterns used by successful B2B SaaS marketers.
