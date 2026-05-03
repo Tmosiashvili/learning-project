@@ -37,3 +37,13 @@ Analyze how top B2B SaaS experts use LinkedIn for growth.
 - research/other/
 ## Purpose
 To identify real content patterns used by successful B2B SaaS marketers.
+# Research Project: SaaS LinkedIn Growth Strategy
+## Overview
+This section is part of an expanded research initiative focused on LinkedIn organic growth strategies for B2B SaaS companies.
+## What This Includes
+- Expert analysis from 10 industry practitioners  
+- LinkedIn post collection  
+- YouTube transcript analysis  
+- Cross-source insight synthesis  
+## Focus Area
+LinkedIn Organic Content Strategy for B2B SaaS
