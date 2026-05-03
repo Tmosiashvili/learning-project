@@ -13,7 +13,7 @@ Former CMO at Drift who scaled it to $100M+ ARR, then built Exit Five — the la
 Why relevant: 
 His content proves that brand-led thinking beats performance marketing at scale — and Exit Five is a living case study in community as a B2B go-to-market motion.
 ## Alex Hormozi
-LinkedIn: https://www.linkedin.com/in/alexhormozi/  
+LinkedIn: https://www.linkedin.com/in/alexhormozi/
 YouTube: https://www.youtube.com/@AlexHormozi  
 Who they are:
 Operator who scaled multiple businesses past $10M using offer design and high-value content as the primary acquisition channel. Author of $100M Offers.
