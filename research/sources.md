@@ -19,3 +19,10 @@ Who they are:
 Operator who scaled multiple businesses past $10M using offer design and high-value content as the primary acquisition channel. Author of $100M Offers.
 Why relevant:
 His “value-first” content strategy underpins high-performing SaaS content that converts without aggressive calls-to-action, making him highly relevant for demand generation and messaging strategy.
+# April Dunford
+LinkedIn: https://www.linkedin.com/in/aprildunford/
+YouTube: https://www.youtube.com/@positioningshow   
+Who they are: 
+Positioning consultant specializing in B2B SaaS. Author of Obviously Awesome.
+Why relevant: 
+Provides frameworks for clear differentiation and positioning — critical for ensuring marketing content communicates a unique and compelling market position.
