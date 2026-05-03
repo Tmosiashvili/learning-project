@@ -35,7 +35,7 @@ Why relevant:
 Offers data-backed insights into SaaS growth, adding analytical depth and credibility to marketing and product strategy discussions.
 ##  Peep Laja
 LinkedIn: https://www.linkedin.com/in/peeplaja/  
-YouTube: https://www.youtube.com/@PeepLaja  
+YouTube: https://www.youtube.com/@peeplaja2007  
 Who they are: 
 Founder of CXL and Wynter. Pioneer in message testing using real buyer feedback.
 Why relevant:
