@@ -26,3 +26,45 @@ Who they are:
 Positioning consultant specializing in B2B SaaS. Author of Obviously Awesome.
 Why relevant: 
 Provides frameworks for clear differentiation and positioning — critical for ensuring marketing content communicates a unique and compelling market position.
+## Kyle Poyar
+LinkedIn: https://www.linkedin.com/in/kyle-poyar/  
+YouTube: N/A  
+Who they are:
+Operating Partner at OpenView focused on SaaS growth models, pricing, and monetization strategies.
+Why relevant:  
+Offers data-backed insights into SaaS growth, adding analytical depth and credibility to marketing and product strategy discussions.
+##  Peep Laja
+LinkedIn: https://www.linkedin.com/in/peeplaja/  
+YouTube: https://www.youtube.com/@PeepLaja  
+Who they are: 
+Founder of CXL and Wynter. Pioneer in message testing using real buyer feedback.
+Why relevant:
+Key expert in message-market fit and conversion optimization, helping diagnose why messaging resonates or fails.
+## Sangram Vajre
+LinkedIn: https://www.linkedin.com/in/sangramvajre/  
+YouTube: https://www.youtube.com/@SangramVajre  
+Who they are: 
+Co-founder of Terminus and GTM Partners. Early leader in Account-Based Marketing (ABM).
+Why relevant:
+Provides frameworks for aligning marketing and revenue teams, with strong emphasis on pipeline and GTM efficiency.
+## Lenny Rachitsky
+LinkedIn: https://www.linkedin.com/in/lennyrachitsky/  
+YouTube: https://www.youtube.com/@LennysPodcast  
+Who they are:
+Former Airbnb product manager and author of one of the most widely read SaaS growth newsletters.
+Why relevant:
+Bridges product and growth strategy, offering insights into activation, retention, and product-led growth
+## Kieran Flanagan
+LinkedIn: https://www.linkedin.com/in/kieranjflanagan/  
+YouTube: N/A  
+Who they are:
+Former SVP of Marketing at HubSpot, now focused on AI-driven GTM strategies.
+Why relevant:
+Provides forward-looking insights on AI and modern marketing systems, relevant for evolving SaaS growth strategies.
+## Rand Fishkin
+LinkedIn: https://www.linkedin.com/in/randfishkin/  
+YouTube: https://www.youtube.com/@MozHQ  
+Who they are:  
+Founder of Moz and SparkToro. Pioneer in audience intelligence and SEO.
+Why relevant:
+Offers research-backed insights into audience behavior, zero-click content, and the “dark funnel.”
