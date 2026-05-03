@@ -63,7 +63,7 @@ Why relevant:
 Provides forward-looking insights on AI and modern marketing systems, relevant for evolving SaaS growth strategies.
 ## Rand Fishkin
 LinkedIn: https://www.linkedin.com/in/randfishkin/  
-YouTube: https://www.youtube.com/@MozHQ  
+YouTube: https://www.youtube.com/@randfish
 Who they are:  
 Founder of Moz and SparkToro. Pioneer in audience intelligence and SEO.
 Why relevant:
